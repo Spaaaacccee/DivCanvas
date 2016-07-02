@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+
+html,body,#stage {
+margin:0;
+width:100vw;
+}
+
+#stage {
+height:100vw;
+position:absolute;
+top:0;
+left:0;
+}
+
+#stage * {
+        transform: translateZ(0);
+}
+
+.gameTile {
+height:10px;
+width:10px;
+/*border:solid 1px black;*/
+box-sizing:border-box;
+display:inline-block;
+margin:0;
+font-size:0px;
+position:absolute;
+}
