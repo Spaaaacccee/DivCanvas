@@ -1,2 +1,2 @@
 # DivCanvas
-Stupid &amp; Slow Javascript drawing program that uses divs as pixels
+Stupid and slow Javascript drawing program that uses divs as pixels
